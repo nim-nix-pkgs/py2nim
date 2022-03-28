@@ -11,6 +11,7 @@
   inputs.src-py2nim-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-py2nim-v0_1_1.owner = "Niminem";
   inputs.src-py2nim-v0_1_1.repo  = "Py2Nim";
+  inputs.src-py2nim-v0_1_1.dir   = "";
   inputs.src-py2nim-v0_1_1.type  = "github";
   
   inputs."compiler".owner = "nim-nix-pkgs";
